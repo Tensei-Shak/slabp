@@ -1,4 +1,5 @@
 <template>
+  <h2>SimuLabPhysic</h2>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
